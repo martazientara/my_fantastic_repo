@@ -1,2 +1,3 @@
 modyfikacja1
 modyfikacja2
+modyfikacja3
